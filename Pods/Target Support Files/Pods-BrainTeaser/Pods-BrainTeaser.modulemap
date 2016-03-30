@@ -1,0 +1,6 @@
+framework module Pods_BrainTeaser {
+  umbrella header "Pods-BrainTeaser-umbrella.h"
+
+  export *
+  module * { export * }
+}
